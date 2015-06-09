@@ -1,0 +1,7 @@
+total 29
+drwxrwx---+ 1 Administrators   None             0 Jun  9 17:29 .
+d---rwx---+ 1 TrustedInstaller TrustedInstaller 0 Jun  9 17:12 ..
+drwxrwxr-x+ 1 test-hjf         None             0 Jun  9 17:27 .git
+drwxrwx---+ 1 Administrators   None             0 Jun  9 17:15 TestAddDir
+-rwxrwx---+ 1 Administrators   None             7 Jun  9 17:14 ls.txt
+-rwxrwx---+ 1 Administrators   None             0 Jun  9 17:29 lsal2.txt
