@@ -1,4 +1,0 @@
-total 0
-drwxrwx---+ 1 Administrators None 0 Jun  9 17:15 .
-drwxrwx---+ 1 Administrators None 0 Jun  9 17:14 ..
--rwxrwx---+ 1 Administrators None 0 Jun  9 17:15 lsal.txt
