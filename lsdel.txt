@@ -1,4 +1,5 @@
 add test line
+re modify
 TestAddDir
 ls.txt
 lsal2.txt
