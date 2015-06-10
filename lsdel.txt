@@ -1,4 +1,0 @@
-TestAddDir
-ls.txt
-lsal2.txt
-lsdel.txt
